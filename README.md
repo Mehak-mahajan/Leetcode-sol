@@ -61,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
