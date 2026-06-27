@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0493-reverse-pairs) |
 ## Binary Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
