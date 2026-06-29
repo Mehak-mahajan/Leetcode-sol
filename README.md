@@ -69,8 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
