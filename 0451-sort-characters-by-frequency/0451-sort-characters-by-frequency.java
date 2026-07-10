@@ -42,5 +42,20 @@ class Solution {
     }
 }
 
+ // time complexity will be hashmap o(n) + stringbuilder O(n)+ sorting 0(k logk)
 
 // on my understanding i will divide it into character and tsored it into a rray iterate over evry character use a map if the character is not present store the chractr and increase count =1 else sort map key in the descending order oans store character uske acc return string 
+
+
+
+// OPTIMAL SOLUTION IS TO AVOID SORTING THAT TAKES OKLOGK TIME K FOR DISTINCT CHARACTERS 
+
+// APPROACH 
+// USE HASHMAP COUNT FREQUENCY 
+
+// SECOND WE KNOW THAT FREQUENCY OF CHARACTER IS NOT MORE THAN THE STRING LENGTH (IDEA OF BUCKET SORT COME SO INSTEAD ODF SOTING THE MAP WE KNOW THE RAMGE SO WE SUE BUCKET SORT)
+// MAP.GETVALUE STORED INTO VARIABLE CALLED FREQ 
+//INITIALLY BYCKET NULL 
+// IF BUCKET NULL U CREATE A LIST AND ADD CHARCATWR ELSE SIMPLE ADD CH 
+
+// FREQ DECENDING ORDER FREQUENCY= INDEX SO START FROM LAST IF IT IS NOT NULL THEN AS TIMES AS INDEX UTNI FREQ JO WE USE INNER LOOP J ALSO 
