@@ -4,18 +4,24 @@ class Solution {
         int ans = 0;
 
         for(int i = 0 ; i < s.length() ;i++){
+            int freq[] = new int[26];
+
+            // in optimal sol new freq set after indedx changes 
+
             for(int j = i; j < s.length(); j++){
+
+                // new character append 
 
 
                 // array 26 size
 
-                int freq[] = new int[26];
+               // int freq[] = new int[26];
 
-                for(int k = i ; k<=j ; k++ ){
+               // for(int k = i ; k<=j ; k++ ){
                  //   char ch = s.charAt(k);
 
-                    freq[s.charAt(k) - 'a']++;
-                }
+                    freq[s.charAt(j) - 'a']++;
+                //}
 
                 int max = Integer.MIN_VALUE;
 
