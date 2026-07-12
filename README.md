@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
 ## Stack
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0205-isomorphic-strings) |
