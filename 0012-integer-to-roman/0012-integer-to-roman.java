@@ -24,3 +24,9 @@ class Solution {
         
     }
 }
+
+// WHILE APPROACH MEIN MODLULO IMP NHI BECAUSE ANS WRONG AYGA AS 3000 NOW 3000>=1000 OK APPEND M OK NOW 3000%1000 = 0 AND IT STOPS BUT ACTUAL ANS MMM
+
+// IF U WANT TO WRITE MODULO PART THEN ITERATE KIYA ARRAY MEIN STORE KRVAYA int count = num / values[i] while cont > 0 then append and count -- 
+
+// num = num%values[i]
