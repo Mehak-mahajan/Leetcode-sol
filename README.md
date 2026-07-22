@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
