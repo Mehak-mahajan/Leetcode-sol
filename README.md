@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
