@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
