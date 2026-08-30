@@ -21,7 +21,7 @@ class Solution {
             }
 
             if(i < n){
-                st.push(index);
+                st.push(i);
             }
 
 
