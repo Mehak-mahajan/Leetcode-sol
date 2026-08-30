@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
 ## Greedy
 |  |
 | ------- |
