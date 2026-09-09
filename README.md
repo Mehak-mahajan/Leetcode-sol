@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -210,8 +212,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
