@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0901-online-stock-span) |
 ## Simulation
@@ -236,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
