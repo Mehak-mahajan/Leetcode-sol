@@ -47,7 +47,12 @@ class LRUCache {
             return -1;
         }
 
-        Node node = map.get(key);
+        Node node = map.get(key); //  1 → old Node
+// 1 → new Node
+
+// we would have duplicate nodes for the same key, which is unnecessary and would make the linked list/map inconsistent.
+
+// Instead, we simply modify the existing node:
 
         // This key was just used → make it most recently used
         removeNode(node);
