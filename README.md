@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
@@ -243,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
