@@ -65,3 +65,19 @@ public class Solution {
         
     }
 }
+
+// brute force is traversing over the first list and store into set then traversing upon 2nd list and check whether this value present in set or not 
+
+//as brute force takeextra  space 
+
+// ionj order toptimize we can think how to link the next pointers 
+
+// intersection concept is koi chij tbhi intersect krti agr vo do same distance pr start hui ho 
+
+// pr kloi node length greater ho skti kiskismasller length v hoskti so wecount the bot ll length and then check which length is greater we point the pointer by n diifernce when node covers n distance now both becom equal 
+// if they become equal then start pointer moving together if nodes dsme intersect else move pointer till reacges null 
+
+
+//next optimal apperoafch is if wedont 
+
+// After aligning the starting positions of both pointers so that they have the same number of nodes remaining, if an intersection exists, both pointers will reach the intersection at the same time.
