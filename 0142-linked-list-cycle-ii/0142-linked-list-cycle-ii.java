@@ -75,3 +75,4 @@ public class Solution {
 
 // The meeting point is guaranteed to be the start of the cycle because of the relationship created when fast (moving twice as fast) first caught slow.
 
+// After the first meeting, if one pointer is placed at head and both pointers move one step at a time, they meet exactly at the beginning of the cycle.
