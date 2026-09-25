@@ -61,3 +61,5 @@ class Solution {
         return dummy.next;
     }
 }
+
+// divide and conquer i used here logic is being same applied of merge two sorted list and here we have to sort the k list so we apply the recursion 
