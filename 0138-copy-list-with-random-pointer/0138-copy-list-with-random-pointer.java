@@ -18,6 +18,8 @@ class Solution {
 
         // brute force approach make the copy of ll 
 
+        // we create a hashmap and store the original value and copied value 
+
         // ll empty
         if(head == null){
             return null;
