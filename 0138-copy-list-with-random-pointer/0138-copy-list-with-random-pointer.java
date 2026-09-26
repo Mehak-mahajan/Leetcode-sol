@@ -72,3 +72,61 @@ class Solution {
 // 3rd step 
 // separate original and copy we have save the head.next 
 // copy.next= copy.next.next and temp.next = copy.next yes then moe temp = temp.next
+
+
+
+
+// class Solution {
+//     public Node copyRandomList(Node head) {
+
+//         if (head == null) {
+//             return null;
+//         }
+
+//         // Step 1: Insert copy nodes
+//         Node temp = head;
+
+//         while (temp != null) {
+
+//             Node copy = new Node(temp.val);
+
+//             copy.next = temp.next;
+//             temp.next = copy;
+
+//             temp = copy.next;
+//         }
+
+//         // Step 2: Connect random pointers
+//         temp = head;
+
+//         while (temp != null) {
+
+//             Node copy = temp.next;
+
+//             if (temp.random != null) {
+//                 copy.random = temp.random.next;
+//             }
+
+//             temp = copy.next;
+//         }
+
+//         // Step 3: Separate the lists
+//         temp = head;
+//         Node copyHead = head.next;
+
+//         while (temp != null) {
+
+//             Node copy = temp.next;
+
+//             temp.next = copy.next;
+
+//             if (copy.next != null) {
+//                 copy.next = copy.next.next;
+//             }
+
+//             temp = temp.next;
+//         }
+
+//         return copyHead;
+//     }
+// }
