@@ -49,3 +49,6 @@ class Solution {
     }
 }
 
+//fisrt intuition is we have to maintain n gaps btween fast and slow 
+
+// we first move fast till the n then we together move slow and fast in order to make sure that our slow should be one node before which we have to del 
