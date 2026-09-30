@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
