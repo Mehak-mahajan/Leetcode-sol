@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0907-sum-of-subarray-minimums) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
