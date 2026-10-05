@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
