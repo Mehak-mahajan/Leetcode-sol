@@ -23,3 +23,12 @@ class Solution {
         return count;
     }
 }
+
+// goal is to remove min no of overlapping intervals so that remaning remains non overlap 
+
+
+// so first sort it but why we sort it because jitna size bda hoga ie range utni overlsap hone ke chnces jiyda so keep the earliest one 
+
+// overlap condition eg 1 4 and 2 3 prev end 4 and start 2 so my start start < prev end so its is overlapping 
+
+// agar nhi overlap krrha to just prev end ko update krdo 
