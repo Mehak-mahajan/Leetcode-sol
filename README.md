@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2104-sum-of-subarray-ranges) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0876-middle-of-the-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0238-product-of-array-except-self) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String Matching
 |  |
 | ------- |
@@ -212,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
 | ------- |
