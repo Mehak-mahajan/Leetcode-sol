@@ -24,12 +24,14 @@ class Solution {
 
             // Select the current course
             pq.offer(duration);
+           
             totalTime += duration;
 
             // If we exceed the deadline, remove the longest course
-            if (totalTime > deadline) {
+            while(!pq.isEmpty() && totalTime > deadline ){
                 totalTime -= pq.poll();
             }
+            //  pq.offer(duration);
         }
 
         // Number of courses still selected
