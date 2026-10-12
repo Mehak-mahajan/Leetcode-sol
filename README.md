@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0630-course-schedule-iii) |
 | [0735-asteroid-collision](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2104-sum-of-subarray-ranges) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1903-largest-odd-number-in-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/1903-largest-odd-number-in-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Prefix Sum
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0630-course-schedule-iii) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Bucket Sort
 |  |
