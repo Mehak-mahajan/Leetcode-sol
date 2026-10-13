@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0503-next-greater-element-ii) |
 | [0630-course-schedule-iii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0630-course-schedule-iii) |
 | [0735-asteroid-collision](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0735-asteroid-collision) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0763-partition-labels) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0630-course-schedule-iii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String Matching
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0630-course-schedule-iii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
