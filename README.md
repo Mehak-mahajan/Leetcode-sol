@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0402-remove-k-digits) |
@@ -330,4 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehak-mahajan/Leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
