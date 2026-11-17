@@ -34,3 +34,9 @@ class Solution {
         return 1 + Math.max(left, right);
     }
 }
+
+// isme hum aise nhi kr skte ki phle max depth fond krle fir hum n-1 krle because it is not necessary ki yh root nodes
+
+// goal to find the max no of edges between the left and right node 
+
+//diameter is summing of left and right 
