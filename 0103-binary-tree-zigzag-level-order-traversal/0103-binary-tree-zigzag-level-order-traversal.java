@@ -30,17 +30,25 @@ class Solution {
         while (!queue.isEmpty()) {
 
             int size = queue.size();
-            List<Integer> level = new ArrayList<>();
-
+         List<Integer> level = new ArrayList<>(
+    Collections.nCopies(size, 0)
+);
             for (int i = 0; i < size; i++) {
+
+                int index;
 
                 TreeNode node = queue.poll();
 
                 if (flag) {
-                    level.add(node.val);
+                     //level.add( node.val);
+                    index = i;
                 } else {
-                    level.add(0, node.val); /// values added at the beginning 
+//level.add(0, node.val); /// values added at the beginning 
+                      // abh yh left to right move nhi krga 
+
+                      index = size - i-1;
                 }
+                level.set(index , node.val);
 
                 if (node.left != null) {
                     queue.add(node.left);
