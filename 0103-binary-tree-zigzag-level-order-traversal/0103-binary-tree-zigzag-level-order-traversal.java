@@ -39,7 +39,7 @@ class Solution {
                 if (flag) {
                     level.add(node.val);
                 } else {
-                    level.add(0, node.val);
+                    level.add(0, node.val); /// values added at the beginning 
                 }
 
                 if (node.left != null) {
@@ -53,9 +53,11 @@ class Solution {
 
             result.add(level);
 
-            flag = !flag;
+            flag = !flag; // jb value left to right hogi uske bd rflag ko chnge krdo
         }
 
         return result;
     }
 }
+
+//traversal o(n2)
