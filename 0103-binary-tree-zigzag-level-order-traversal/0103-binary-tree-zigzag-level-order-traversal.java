@@ -32,7 +32,7 @@ class Solution {
             int size = queue.size();
          List<Integer> level = new ArrayList<>(
     Collections.nCopies(size, 0)
-);
+);// jitni hmre pass size hai humn eutne level ka create krli copy initially which is zero
             for (int i = 0; i < size; i++) {
 
                 int index;
