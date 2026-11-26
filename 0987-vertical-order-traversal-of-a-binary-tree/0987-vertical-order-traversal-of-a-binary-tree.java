@@ -84,3 +84,5 @@ class Solution {
         return answer;
     }
 }
+
+// we want those nodes which lies in the same line but what if they are overlapping we neeed the smallest avlue first but if they have same col then there is need of row first we do bfs traversal as we want the same col value smae hai unko group krna to ehen we move left we decreased by 1 and when increased by 1abh jinki value same hai unko same group mein rkhna 
