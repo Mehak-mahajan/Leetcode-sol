@@ -1,0 +1,72 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+
+
+ // we wnat the right view so no need to process the tree from top to bottom no need of column also 
+class Solution {
+    public List<Integer> rightSideView(TreeNode root) {
+
+        // simple bfs 
+
+        List<Integer> ans = new ArrayList<>();
+
+        Queue<TreeNode> queue = new LinkedList<>();
+
+        if(root == null){
+            return ans;
+        }
+
+        queue.offer(root);
+
+       
+
+        while(!queue.isEmpty()){
+
+             int size = queue.size();
+          
+        for(int i = 0 ; i < size ; i++){
+
+              TreeNode node = queue.poll();
+
+
+            // right view last node add krni
+
+            if(i == size - 1){
+                ans.add(node.val);
+            }
+
+            if(node.left != null){
+                queue.offer(node.left);
+            }
+
+            if(node.right != null){
+                queue.offer(node.right);
+            }
+
+
+        }
+
+        }
+
+        return ans;
+
+
+
+
+
+        
+    }
+}
